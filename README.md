@@ -4,14 +4,27 @@ ANY UI RELATED CONTRIBUTIONS FOR THIS WILL BE WELCOME LIKE MAKING A WEBSITE AND 
 HELLO GUYS;
 
 SO THIS SMALL PROJECT IS CODED IN <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  AND HEAVILY RELIES ON MATHEMATICS OF GREAT DISTANCE FORMULA.
-I WOULD NOT SUGGEST JUST COPYING THE CODE PLEASE SEE https://github.com/suhailopensource/NearbyCabFinder/blob/master/websitesthathelpedmeunderstand.txt
-THIS LINK CONTAINS RESOURCES THAT HELPED ME UNDERSTAND THE CODE CONCEPT IN THIS PROJECT.
+I WOULD NOT SUGGEST JUST COPYING THE CODE PLEASE SEE THESE LINKS
+
+#RESOURCES that HELPED ME UNDERSTAND THE CONCEPT OF NEARBY CAB FINDER
+
+Helped me understand greatdistance formula credits to 
+https://www.movable-type.co.uk/scripts/gis-faq-5.1.html
+
+https://www.igismap.com/map-tool/bearing-angle for longitude and latitude
+
+FIND THE FORMULA HERE
+https://www.researchgate.net/post/What_is_your_experience_with_Haversine_formula_in_the_format_Distance_m_ACOSSINlat1SINlat2_COSlat1COSlat2COSlon2-lon16371
+
+THESE LINKS CONTAIN RESOURCES THAT HELPED ME UNDERSTAND THE CODE CONCEPT IN THIS PROJECT.
 
 THIS CODE IS A SMALL REALLY BASIC EXAMPLE OF HOW COMPANIES LIKE OLA,UBER AND OTHER DELIVERING APPS HELP YOU FIND NEARBY CABS AND FOR FINDING NEARB DELIVERY GUYS TO DELIVER FOOD TO YOUR HOUSE
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Ola_Cabs_logo.svg/1200px-Ola_Cabs_logo.svg.png" style="height:40px;width:70px">
 <img src="https://seeklogo.com/images/U/uber-logo-2BB8EC4342-seeklogo.com.png" style="height:40px;width:70px">
 <img src="https://techstory.in/wp-content/uploads/2021/11/Zepto.jpg" style="height:40px;width:70px">
 
+
+GREAT DISTANCE FORMULA THAT IS USED:- Distance (m) = ACOS(SIN(lat1)*SIN(lat2)+COS(lat1)*COS(lat2)*COS(lon2-lon1))*6371
 
 THE QUESTION IS AS FOLLOWS :-
 
