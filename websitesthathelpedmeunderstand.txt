@@ -1,0 +1,7 @@
+https://www.movable-type.co.uk/scripts/gis-faq-5.1.html
+
+ credits to {https://www.igismap.com/map-tool/bearing-angle} for longitude and latitude
+
+
+Helped me understand greatdistance formula
+credits to {https://www.researchgate.net/post/What_is_your_experience_with_Haversine_formula_in_the_format_Distance_m_ACOSSINlat1SINlat2_COSlat1COSlat2COSlon2-lon16371}
