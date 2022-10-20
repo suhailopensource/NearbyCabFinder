@@ -52,8 +52,11 @@ Distance formula.
 id and name of the cab driver to a new file else take no action.
 *****************************************************************************
 
-   HOW DO YOU RUN THIS PROGRAM?                                              
-   1. Save the code and the file customers.json in a same location.
+   HOW DO YOU RUN THIS PROGRAM? 
+   
+https://user-images.githubusercontent.com/114918598/196859216-4848a356-c2ae-45a6-8045-2cedb4b1816b.mp4
+
+ 1. Save the code and the file customers.json in a same location.
 2. Now, compile the code(using cmd : g++ file_name.cpp) and run it(using cmd : ./a.out /home/gfg/customers.json) 
 with passing file name customers.json along with proper location(e.g. /home/gfg/customers.json).
 3. A file named answers.json will be created on the same location where code and customers.json file is existing.
