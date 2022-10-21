@@ -5,16 +5,12 @@ HELLO GUYS;
 
 SO THIS SMALL PROJECT IS CODED IN <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  AND HEAVILY RELIES ON MATHEMATICS OF GREAT DISTANCE FORMULA.
 I WOULD NOT SUGGEST JUST COPYING THE CODE PLEASE SEE THESE LINKS
-
+*****************************************************************************
 #RESOURCES that HELPED ME UNDERSTAND THE CONCEPT OF NEARBY CAB FINDER
-
-Helped me understand greatdistance formula credits to 
-https://www.movable-type.co.uk/scripts/gis-faq-5.1.html
-
-https://www.igismap.com/map-tool/bearing-angle for longitude and latitude
-
-FIND THE FORMULA HERE
-https://www.researchgate.net/post/What_is_your_experience_with_Haversine_formula_in_the_format_Distance_m_ACOSSINlat1SINlat2_COSlat1COSlat2COSlon2-lon16371
+WIKIPEDIA --- https://en.wikipedia.org/wiki/Great-circle_distance        
+Helped me understand greatdistance formula credits to ---  https://www.movable-type.co.uk/scripts/gis-faq-5.1.html    
+for longitude and latitude --- https://www.igismap.com/map-tool/bearing-angle     
+FIND THE FORMULA HERE ---https://www.researchgate.net/post/What_is_your_experience_with_Haversine_formula_in_the_format_Distance_m_ACOSSINlat1SINlat2_COSlat1COSlat2COSlon2-lon16371
 
 THESE LINKS CONTAIN RESOURCES THAT HELPED ME UNDERSTAND THE CODE CONCEPT IN THIS PROJECT.
 
