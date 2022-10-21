@@ -55,6 +55,7 @@ id and name of the cab driver to a new file else take no action.
    
 https://user-images.githubusercontent.com/114918598/196859216-4848a356-c2ae-45a6-8045-2cedb4b1816b.mp4
 
+[NOTE:- THAT <kbd>g++ code.cpp</kbd> command will only run when u have installed a C++ compiler. compiler link -- https://sourceforge.net/projects/mingw-w64/]
  1. Save the code and the file customers.json in a same location.
 2. Now, compile the code(using cmd : g++ file_name.cpp) and run it(using cmd : ./a.out /home/gfg/customers.json) 
 with passing file name customers.json along with proper location(e.g. /home/gfg/customers.json).
